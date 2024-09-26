@@ -1,8 +1,8 @@
-Before Using the Concept of `OOLAMA`:
+Before Using the Concept of `ollama`:
 
 This is my notebook.
 
-After Using the Concept of `OOLAMA`:
+After Using the Concept of `ollama`:
 
 I switched to these links....
 
